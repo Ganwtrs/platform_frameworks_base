@@ -865,7 +865,7 @@
     <string name="global_action_voice_assist">Voice Assist</string>
 
     <!-- label for item that locks the phone and enforces that it can't be unlocked without strong authentication. [CHAR LIMIT=24] -->
-    <string name="global_action_lockdown">Lockdown</string>
+    <string name="global_action_lockdown">Disable biometric unlock</string>
 
     <!-- label for item in phone options dialog that locks the phone and doesn't enforce unlocking with strong authentication. [CHAR LIMIT=24] -->
     <string name="global_action_unrestricted_lock">Lock</string>
